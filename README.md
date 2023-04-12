@@ -53,3 +53,5 @@ Here's a GIF showing the game in action:
 <img src="img/demo.gif" width=70% />
 
 I hope this helps you get started with your implementation of Conway's Game of Life in Python.
+
+Thank You.
